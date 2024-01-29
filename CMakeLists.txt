@@ -8,3 +8,4 @@ include_directories(.)
 add_executable(array_op_cpp
         exp3_arreglo_valor_mayor.cpp
         functions.h)
+add_executable(optimizer exp3_optimized.cpp functions.h)

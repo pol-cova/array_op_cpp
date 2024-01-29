@@ -1,3 +1,9 @@
 # ninja log v5
-0	1622	1706497436154066719	CMakeFiles/array_op_cpp.dir/exp3_arreglo_valor_mayor.cpp.o	6982a035fc2bd0b0
-1624	1723	1706497436263045992	array_op_cpp	2c23511788adb657
+8	1408	1706502911668233744	CMakeFiles/array_op_cpp.dir/exp3_arreglo_valor_mayor.cpp.o	6982a035fc2bd0b0
+1409	1497	1706502911761147254	array_op_cpp	2c23511788adb657
+0	1477	1706506507242428586	CMakeFiles/optimizer.dir/exp3_optimized.cpp.o	3ec49477ba662110
+3	970	1706506729800819980	CMakeFiles/optimizer.dir/exp3_optimized.cpp.o	3ec49477ba662110
+3	1092	1706507685363955565	CMakeFiles/optimizer.dir/exp3_optimized.cpp.o	3ec49477ba662110
+1092	1183	1706507685459976335	optimizer	93c8f1a5e9187d5f
+3	2253	1706507790961922823	CMakeFiles/optimizer.dir/exp3_optimized.cpp.o	3ec49477ba662110
+2254	2329	1706507791042273928	optimizer	93c8f1a5e9187d5f

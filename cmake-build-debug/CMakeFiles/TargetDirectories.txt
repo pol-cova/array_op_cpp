@@ -1,3 +1,4 @@
 /Users/paulcontreras/Documents/GitHub/array_op_cpp/cmake-build-debug/CMakeFiles/array_op_cpp.dir
+/Users/paulcontreras/Documents/GitHub/array_op_cpp/cmake-build-debug/CMakeFiles/optimizer.dir
 /Users/paulcontreras/Documents/GitHub/array_op_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/paulcontreras/Documents/GitHub/array_op_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
